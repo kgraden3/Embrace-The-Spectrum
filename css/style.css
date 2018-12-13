@@ -50,7 +50,7 @@ p, span {
 
 ul, ol {
   display: block;
-  margin-bottom: 1.5em; }
+  margin-bottom: 2em; }
 
 span {
   font-size: 18px;
@@ -507,7 +507,7 @@ header {
 .case-img {
   display: block;
   height: 400px; }
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 2000px) {
     .case-img {
       margin-bottom: 30px; } }
 
