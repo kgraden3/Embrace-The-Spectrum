@@ -306,7 +306,7 @@ header {
   width: 100%;
   clear: both;
   position: relative; }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1200px) {
     #colorlib-hero {
       padding: 0;
       margin: 0; } }
@@ -344,7 +344,7 @@ header {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    -ms-flex-wrap: wrap;
+    -ms-flex-wrap: wrap ;
     flex-wrap: wrap;
     -webkit-flex-wrap: wrap;
     -moz-flex-wrap: wrap; }
@@ -372,7 +372,7 @@ header {
         font-size: 54px;
         font-weight: 900;
         letter-spacing: 2px; }
-        @media screen and (max-width: 768px) {
+        @media screen and (max-width: 1200px) {
           #colorlib-hero .hero-flex .text-inner h2 {
             font-size: 30px; } }
       #colorlib-hero .hero-flex .text-inner .tag {
@@ -384,7 +384,7 @@ header {
       #colorlib-hero .hero-flex .text-inner .desc {
         padding-right: 3em;
         position: relative; }
-        @media screen and (max-width: 768px) {
+        @media screen and (max-width: 1200px) {
           #colorlib-hero .hero-flex .text-inner .desc {
             padding: 1em;
             background: #fff;
@@ -403,7 +403,7 @@ header {
           width: 200px;
           height: 1px;
           background: #000; }
-          @media screen and (max-width: 768px) {
+          @media screen and (max-width: 1200px) {
             #colorlib-hero .hero-flex .text-inner .desc:after {
               opacity: 0; } }
       #colorlib-hero .hero-flex .text-inner .btn-view {
@@ -415,7 +415,7 @@ header {
         border: 1px solid #000;
         padding: 7px;
         text-decoration: none; }
-        @media screen and (max-width: 768px) {
+        @media screen and (max-width: 1200px) {
           #colorlib-hero .hero-flex .text-inner .btn-view {
             letter-spacing: 2px; } }
   #colorlib-hero .owl-theme .owl-controls {
@@ -425,7 +425,7 @@ header {
     width: 180px;
     display: block;
     margin: 0 auto; }
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 1200px) {
       #colorlib-hero .owl-theme .owl-controls {
         left: 25%; } }
   #colorlib-hero .owl-theme .owl-controls .owl-nav [class*=owl-] {
