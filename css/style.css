@@ -507,7 +507,7 @@ header {
 .case-img {
   display: block;
   height: 400px; }
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 1200px) {
     .case-img {
       margin-bottom: 30px; } }
 
