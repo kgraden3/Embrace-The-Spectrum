@@ -287,7 +287,7 @@ header {
 #colorlib-blog,
 #colorlib-contact,
 .colorlib-footer {
-  padding: 8em 0;
+  padding: 3em 0;
   clear: both;
   position: relative; }
   @media screen and (max-width: 768px) {
